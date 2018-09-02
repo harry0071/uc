@@ -107,13 +107,13 @@ header{
 }
 
 @keyframes banner-move{
-	0%{background-image: url(../img/banner.png)}
-	30%{background-image: url(../img/banner.png)}
-	40%{background-image: url(../img/banner2.jpg)}
-	70%{background-image: url(../img/banner2.jpg)}
-	80%{background-image: url(../img/banner3.png)}
-	90%{background-image: url(../img/banner3.png)}
-	100%{background-image: url(../img/banner.png)}
+	0%{background-image: url(../img/banner.webp)}
+	30%{background-image: url(../img/banner.webp)}
+	40%{background-image: url(../img/banner2.webp)}
+	70%{background-image: url(../img/banner2.webp)}
+	80%{background-image: url(../img/banner3.webp)}
+	90%{background-image: url(../img/banner3.webp)}
+	100%{background-image: url(../img/banner.webp)}
 }
 
 .banner>a{
